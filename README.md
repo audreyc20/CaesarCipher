@@ -1,5 +1,5 @@
 # CaesarCipher
-Can encode and decode with this program in python
+Use this program to encode and decode words and sentences with a Caesar Cipher!
 
     #imports
     import simplegui
